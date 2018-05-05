@@ -10,6 +10,6 @@ public class VisitController {
 
     @RequestMapping(value = "/hello")
     public String hello(){
-        return "hello";
+        return "hello,nimabide";
     }
 }
